@@ -3,13 +3,13 @@
 **PostAndLike** は、50文字以内の投稿ができ、他のユーザーの投稿に「いいね」できるシンプルな掲示板アプリです。  
 ユーザー認証機能を備えており、ログインしたユーザーのみ投稿やいいねが可能です。
 
-<img width="30%" alt="Image" src="https://github.com/user-attachments/assets/7d016379-a751-4690-a62e-40b416197fe5" />
-<img width="30%" alt="Image" src="https://github.com/user-attachments/assets/25b41885-1643-4b20-bd6c-45012919dfa7" />
-<img width="30%" alt="Image" src="https://github.com/user-attachments/assets/a5897764-7812-4b18-9581-bd2635a1f5e8" />
+<img width="45%" alt="Image" src="https://github.com/user-attachments/assets/7d016379-a751-4690-a62e-40b416197fe5" />
+<img width="45%" alt="Image" src="https://github.com/user-attachments/assets/25b41885-1643-4b20-bd6c-45012919dfa7" />
+
 
 ---
 
-https://github.com/yamada814/PostAndLike_app/issues/5#issue-2905300166
+
 
 ---
 
@@ -80,4 +80,4 @@ create table likes(
 )
 ```
 ### ER図
-![Image](https://github.com/user-attachments/assets/f0aa85a1-888b-4d27-90d1-914aa363ec8b)
+![Image](https://github.com/user-attachments/assets/a52cfc44-339e-4380-ad79-ae1032d29a0d)
