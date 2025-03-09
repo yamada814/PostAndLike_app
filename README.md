@@ -75,3 +75,5 @@ create table likes(
   login_id varchar(100) not null
 )
 ```
+### ER図
+![Image](https://github.com/user-attachments/assets/f0aa85a1-888b-4d27-90d1-914aa363ec8b)
