@@ -1,0 +1,37 @@
+@charset "utf-8";
+main{
+    margin: 10px auto;
+}
+main h1{
+	text-align:center;
+}
+main div{
+	background-color: white;
+	padding: 30px;
+	text-align: center;
+	border-radius: 10px;
+	width:400px
+}
+main div button{
+	font: size 24px;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+	width: 200px;
+	height: 30px;
+	background-color: #1a7979;
+	color: white;
+	border: 2px solid #aaaaaa;
+	border-radius: 10px;
+	margin:20px;
+}
+main input{
+	margin-top:20px;
+}
+.pattern{
+	font-size: 12px;
+	color: darkgray;
+}
+main div button:hover{
+	background-color:rgb(237, 223, 77);
+	color:#1a7979;
+}

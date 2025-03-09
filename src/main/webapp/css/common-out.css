@@ -1,0 +1,13 @@
+@charset "utf-8";
+main{
+    margin: 10px auto;
+}
+main h1{
+	text-align:center;
+}
+main div{
+	background-color: white;
+	padding: 30px;
+	text-align: center;
+	border-radius: 10px;
+}

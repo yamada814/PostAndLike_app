@@ -1,0 +1,39 @@
+@charset "utf-8";
+body {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    text-align: center;
+    padding: 30px;
+    background-color: white;
+    width: 500px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #ccc;
+}
+form p{
+	font-size: 30px;
+}
+form label{
+    line-height: 50px;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    margin: 20px;
+    font-size: 30px;
+    color:white;
+    background-color: #1a7979;
+    font-weight:bold;
+    border:3px solid #cccccc;
+    border-radius:10px; 
+}
+button:hover{
+	background-color:rgb(237, 223, 77);
+	color:#1a7979;
+}

@@ -1,0 +1,35 @@
+@charset "utf-8";
+	body{
+	    display: flex;
+	}
+	main{
+	    width: 70%;
+	    display: flex;
+	    flex-direction: column;
+	}
+	article{
+	    display: flex;
+	    flex-direction: column;
+	    background-color: white;
+	    border-radius: 15px;
+	    box-shadow: 5px 5px 5px #ccc;
+	    margin: 20px 50px;
+	    padding:20px;
+	    width:60%;
+	}
+	.articleHead{
+	    display: flex;
+	    justify-content:space-between;
+	}
+	.date{
+	    font-size:12px;
+	}
+	.contents{
+	    padding:10px;
+	    border-top:1px solid #ccc;
+	    border-bottom:1px solid #ccc;
+	}
+	.articleFoot{
+		display: flex;
+	    justify-content:space-between;
+	}

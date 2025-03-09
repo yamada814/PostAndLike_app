@@ -1,0 +1,9 @@
+@charset "UTF-8";
+body{
+	margin:0px;
+	background-color: #e0eeeb;
+	font-family: "Noto Sans JP", serif;
+}
+a{
+text-decoration:none;
+}
