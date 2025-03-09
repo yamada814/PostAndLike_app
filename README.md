@@ -3,6 +3,8 @@
 **PostAndLike** は、50文字以内の投稿ができ、他のユーザーの投稿に「いいね」できるシンプルな掲示板アプリです。  
 ユーザー認証機能を備えており、ログインしたユーザーのみ投稿やいいねが可能です。
 
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/7d016379-a751-4690-a62e-40b416197fe5" />
+
 ---
 
 https://github.com/yamada814/PostAndLike_app/issues/5#issue-2905300166
