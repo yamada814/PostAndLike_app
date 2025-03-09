@@ -4,6 +4,7 @@
 ユーザー認証機能を備えており、ログインしたユーザーのみ投稿やいいねが可能です。
 
 <img width="1512" alt="Image" src="https://github.com/user-attachments/assets/7d016379-a751-4690-a62e-40b416197fe5" />
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/25b41885-1643-4b20-bd6c-45012919dfa7" />
 
 ---
 
