@@ -39,3 +39,39 @@
 ```sh
 git clone https://github.com/yamada814/PostAndLike_app.git
 cd PostAndLike_app
+```
+
+### 3 データベースの作成
+```sh
+CREATE DATABASE myproject;
+USE myproject;
+```
+```sh
+create table customer (
+  id integer primary key auto_increment,
+  login_id varchar(100) not null unique,
+  password varchar(100) not null
+);
+
+insert into customer values(null, 'ayukawa','SweetfishRevier1');
+insert into customer values(null, 'samejima','SharkIsaland2');
+insert into customer values(null, 'wanibuchi','CrocodileChasm3');
+insert into customer values(null, 'ebihara','ShrimpField4');
+insert into customer values(null, 'kanie','CrubBay5');
+insert into customer values(null, 'admin','Administrator35');
+```
+```sh
+create table board (
+  id int PRIMARY KEY NOT NULL AUTO_INCREMENT,
+  mydate datetime DEFAULT CURRENT_TIMESTAMP,
+  login_id varchar(100) NOT NULL,
+  contents varchar(100) NOT NULL,
+  likes int NOT NULL DEFAULT '0'
+);
+```
+```sh
+create table likes(
+  board_id int not null,
+  login_id varchar(100) not null
+)
+```
